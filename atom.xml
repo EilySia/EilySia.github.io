@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://eilysia.github.io</id>
     <title>伊利莎大图书馆 Library of EilySia</title>
-    <updated>2021-02-16T16:03:50.909Z</updated>
+    <updated>2021-02-17T08:38:37.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://eilysia.github.io"/>
     <link rel="self" href="https://eilysia.github.io/atom.xml"/>
@@ -11,4 +11,13 @@ Library of EilySia</subtitle>
     <logo>https://eilysia.github.io/images/avatar.png</logo>
     <icon>https://eilysia.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 伊利莎大图书馆 Library of EilySia</rights>
+    <entry>
+        <title type="html"><![CDATA[结发受长生]]></title>
+        <id>https://eilysia.github.io/post/jie-fa-shou-chang-sheng/</id>
+        <link href="https://eilysia.github.io/post/jie-fa-shou-chang-sheng/">
+        </link>
+        <updated>2021-02-17T02:54:20.000Z</updated>
+        <content type="html"><![CDATA[<p>第一款游戏</p>
+]]></content>
+    </entry>
 </feed>
